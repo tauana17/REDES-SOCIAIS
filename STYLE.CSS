@@ -64,3 +64,23 @@ footer{
     margin-top: 2rem;
     font-size: var(--font);
 }
+
+.graficos-container{
+    margin: 5rem;
+}
+
+.graficos-container__texto{
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 2rem;
+    border: var(--cor-primaria) solid 5px;
+    border-radius: 10px;
+    
+}
+
+span{
+    font-style: oblique;
+    font-weight: bold;
+    color: darkmagenta;
+    font-family: cursive;
+}
